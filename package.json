@@ -11,9 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.2.0",
-    "express": "^4.17.1",
-    "jquery": "^3.5.1",
-    "jquery.js": "0.0.2-security",
     "jsdom": "^16.3.0",
     "mysql": "^2.18.1",
     "request": "^2.88.2"
