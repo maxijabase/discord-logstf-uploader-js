@@ -8,7 +8,7 @@ var request = require('request');
 var mysql = require('mysql');
 
 /* Variables */
-let TOKEN = 'Mjg0NzA1NTUwMzUwOTQyMjA5.WLBOtA.iVVlAqUR3fqarQbK8f2xblatuH8';
+let TOKEN = '';
 let db_logid;
 let api_logid;
 
